@@ -1,0 +1,15 @@
+To check the status of Repository
+git status
+
+git clone "HTTPS Link of Repository"
+
+git config --global user.email "sumeetkochargi@gmail.com"
+git config --global user.name "Sumeet1205"
+
+git add --all
+
+git add "Filename"
+
+git commit -m "Message"
+
+git push
